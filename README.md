@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm an **Electronics and Communication Engineering
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sai-charan-21940924a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-charan-21940924a/)  
 📍 **Location**: Bengaluru, India  
 📧 **Email**: [saicharanreddy141458@gmail.com](mailto:saicharanreddy141458@gmail.com)  
 
