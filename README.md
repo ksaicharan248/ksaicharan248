@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm K Sai Charan!  
 
-👨🏻‍💻 ** Software Engineer** |🚀 **Aspiring Data Scientist** | 📊 **Passionate About Data** | 💻 **Enthusiastic Programmer**  
+👨🏻‍💻 **Software Engineer** |🚀 **Aspiring Data Scientist** | 📊 **Passionate About Data** | 💻 **Enthusiastic Programmer**  
 
 Welcome to my GitHub profile! I'm an **Electronics and Communication Engineering** graduate with a keen interest in **programming, data science, and problem-solving**.
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an **Electronics and Communication Engineering
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://www.google.com/imgres?q=aws%20ec2%20logo&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A720%2F0*oJDeShfY6_eG-_H4&imgrefurl=https%3A%2F%2Fmedium.com%2F%40U_N_R_3_A_L%2Fdeploy-your-first-website-on-the-ec2-instance-d67dcc9bbacc&docid=E-5DSkIOlF-H9M&tbnid=3esdujh0mI5hqM&vet=12ahUKEwi0vPfnybuLAxXaRmwGHR-UItQQM3oECBYQAA..i&w=360&h=230&hcb=2&ved=2ahUKEwi0vPfnybuLAxXaRmwGHR-UItQQM3oECBYQAA)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
