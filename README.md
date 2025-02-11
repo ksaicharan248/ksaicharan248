@@ -78,13 +78,14 @@ Welcome to my GitHub profile! I'm an **Electronics and Communication Engineering
 </p>
 
 
-## 🔧 Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://www.google.com/imgres?q=aws%20ec2%20logo&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A720%2F0*oJDeShfY6_eG-_H4&imgrefurl=https%3A%2F%2Fmedium.com%2F%40U_N_R_3_A_L%2Fdeploy-your-first-website-on-the-ec2-instance-d67dcc9bbacc&docid=E-5DSkIOlF-H9M&tbnid=3esdujh0mI5hqM&vet=12ahUKEwi0vPfnybuLAxXaRmwGHR-UItQQM3oECBYQAA..i&w=360&h=230&hcb=2&ved=2ahUKEwi0vPfnybuLAxXaRmwGHR-UItQQM3oECBYQAA)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+## 📌 Projects:
+
+| 🔢 Project | 📌 Description & Technologies |
+|------------|-----------------------------|
+| **[1️⃣ Automatic Vehicle License Plate Detection](https://github.com/ksaicharan248/Automatic-vehicle-license-plate-detection)** | **An AI system for automatic license plate recognition using deep learning.** <br> 📌 **Technologies:** Ultralytics YOLO, OpenCV, PyTorch, Pandas, NumPy, Matplotlib, Google Colab, Tesseract OCR |
+| **[2️⃣ Attendance Monitoring Bot](https://github.com/ksaicharan248/Attendance-Monitoring-Bot)** | **A Telegram bot that scrapes attendance data using Selenium.** <br> 📌 **Technologies:** Aiogram (Telegram Bot API), Selenium, Flask, Pickle, AWS EC2, Linux, Git & GitHub |
+| **[3️⃣ Sudoku Solver](https://github.com/ksaicharan248/SUDOKU-SLOVER)** | **A Python-based Sudoku solver using the Backtracking Algorithm.** <br> 📌 **Technologies:** Python, Backtracking Algorithm, NumPy, Tkinter |
+| **[4️⃣ FWA-Bot](https://github.com/ksaicharan248/FWA-Bot)** | **A Discord bot that tracks Clash of Clans (CoC) clan members' stats.** <br> 📌 **Technologies:** Discord API, Clash of Clans API, Discord.py, Requests, JSON, SQLite, AWS EC2, Git & GitHub |
 
 ---
 
