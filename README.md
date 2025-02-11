@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm an **Electronics and Communication Engineering
 </p>
 
 
-## 📌 Projects:
+## 📌Some of my Projects:
 
 | 🔢 Project | 📌 Description & Technologies |
 |------------|-----------------------------|
