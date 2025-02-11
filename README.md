@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm K Sai Charan!  
 
-🚀 **Aspiring Data Scientist** | 📊 **Passionate About Data** | 💻 **Enthusiastic Programmer**  
+👨🏻‍💻 ** Software Engineer** |🚀 **Aspiring Data Scientist** | 📊 **Passionate About Data** | 💻 **Enthusiastic Programmer**  
 
 Welcome to my GitHub profile! I'm an **Electronics and Communication Engineering** graduate with a keen interest in **programming, data science, and problem-solving**.
 
