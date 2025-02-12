@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm an **Electronics and Communication Engineering
 | 🔢 Project | 📌 Description & Technologies |
 |------------|-----------------------------|
 | **[1️⃣ Automatic Vehicle License Plate Detection](https://github.com/ksaicharan248/Automatic-vehicle-license-plate-detection)** | **An AI system for automatic license plate recognition using deep learning.** <br> 📌 **Technologies:** Ultralytics YOLO, OpenCV, PyTorch, Pandas, NumPy, Matplotlib, Google Colab, Tesseract OCR |
-| **[2️⃣ Attendance Monitoring Bot](https://github.com/ksaicharan248/Attendance-Monitoring-Bot)** | **A Telegram bot that scrapes attendance data using Selenium.** <br> 📌 **Technologies:** Aiogram (Telegram Bot API), Selenium, Flask, Pickle, AWS EC2, Linux, Git & GitHub |
+| **[2️⃣ Attendance Tracking Bot](https://github.com/ksaicharan248/Attendance-Monitoring-Bot)** | **A Telegram bot that scrapes attendance data using Selenium.** <br> 📌 **Technologies:** Aiogram (Telegram Bot API), Selenium, Flask, Pickle, AWS EC2, Linux, Git & GitHub |
 | **[3️⃣ Sudoku Solver](https://github.com/ksaicharan248/SUDOKU-SLOVER)** | **A Python-based Sudoku solver using the Backtracking Algorithm.** <br> 📌 **Technologies:** Python, Backtracking Algorithm, NumPy, Tkinter |
 | **[4️⃣ FWA-Bot](https://github.com/ksaicharan248/FWA-Bot)** | **A Discord bot that tracks Clash of Clans (CoC) clan members' stats.** <br> 📌 **Technologies:** Discord API, Clash of Clans API, Discord.py, Requests, JSON, SQLite, AWS EC2, Git & GitHub |
 
