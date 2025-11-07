@@ -11,10 +11,10 @@ Welcome to my GitHub! I'm a **B.Tech graduate in Electronics and Communication E
 
 - [🚀 Tech Stack](#-tech-stack)
 - [📌 Featured Projects](#-featured-projects)
-- 🏆 Achievements & Experience
+- [🏆 Achievements & Experience](#-achievements--experience)
 - [💡 Strengths](#-strengths)
 - [🎯 Interests & Hobbies](#-interests--hobbies)
-- 📫 Connect with Me
+- [📫 Connect with Me](#-connect-with-me)
 
 ---
 
@@ -27,7 +27,6 @@ Welcome to my GitHub! I'm a **B.Tech graduate in Electronics and Communication E
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/></a>
 </p>
 
 ### ⚙️ Frameworks & Libraries
@@ -84,39 +83,94 @@ Welcome to my GitHub! I'm a **B.Tech graduate in Electronics and Communication E
 
 ## 🏆 Achievements & Experience
 
-- 📜 **Research Publication**: *Automatic License Plate Detection* in an international journal  
+### 💼 Work Experience
+
+<table>
+<tr>
+<td width="120">
+<img src="https://cognizant.scene7.com/is/image/cognizant/cognizant-white-logo-1?fmt=png-alpha" alt="Cognizant" width="120"/>
+</td>
+<td>
+
+**Cognizant Technology Solutions**  
+**Programmer Analyst Trainee**  
+📍 Chennai, India  
+🛠️ **Tech Stack**: Java Full-Stack Development, React.js, Spring Boot, Microservices, REST APIs, MySQL
+
+</td>
+</tr>
+</table>
+
+### 🎓 Certifications & Achievements
+
+- 📜 **Research Publication**: *Automatic License Plate Detection* in an International Research Journal of Modernization in Engineering Technology and Science
+- 🎓 **Full-Stack Development Training**: Cognizant ADM JFSR Track - React.js, Spring Boot, Microservices, API Gateway
 - 🧪 **Internships**: IoT & Arduino-based projects at Innovate Intern and InternShala  
 - 🛠️ **Workshops**: *Software-Driven Vehicular Tech*  
-- 🎯 **LeadershipSS Volunteer, Event Organizer (*Cursor 2k-24*)  
+- 🎯 **Leadership**: NSS Volunteer, Event Organizer (*Cursor 2k-24*)  
 
 ---
 
 ## 💡 Strengths
 
-- ✅ Leadership & Teamwork  
-- ✅ Problem-Solving & Adaptability  
-- ✅ Strong Communication & Analytical Thinking  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👥 Soft Skills
+- 🎯 **Leadership & Team Collaboration** - Led tech events and coordinated cross-functional teams
+- 💬 **Effective Communication** - Ability to explain complex technical concepts clearly
+- 🔄 **Adaptability & Flexibility** - Quick learner, thrives in dynamic environments
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Technical Skills
+- 🧩 **Problem-Solving** - Strong analytical and debugging capabilities
+- 📊 **Analytical Thinking** - Data-driven decision making and optimization
+- ⏱️ **Time Management** - Efficient in handling multiple projects simultaneously
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Interests & Hobbies
 
-- 🧠 Exploring AI tools like **ChatGPT, Hugging Face, LLMs**  
-- 🕹️ Playing **Chess, Cricket, Badminton**  
-- 📚 Reading tech blogs, research papers, and case studies  
-- 💻 Contributing to **open-source projects**  
-- 🎧 Listening to tech podcasts & documentaries  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Tech Interests
+- 🤖 Exploring **AI/ML tools** - ChatGPT, Claude, Gemini, Hugging Face, LLMs
+- 🚀 Building **side projects** and contributing to open-source
+- 📚 Reading **tech blogs**, research papers, and case studies
+- 🎧 Following **tech podcasts** and documentaries on emerging technologies
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Personal Interests
+- ♟️ Playing **Chess** - Strategic thinking and pattern recognition
+- 🏏 **Cricket & Badminton** - Team sports enthusiast
+- 🌍 Exploring **new technologies** and innovation trends
+- 📱 Staying updated with **latest tech news** and industry developments
+
+</td>
+</tr>
+</table>  
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sai-charan-k-21940924a"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg" alt="LinkedIn" height="50"/></a>
+  <a href="https://www.linkedin.com/in/sai-charan-k-21940924a"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="mailto:saicharanreddy141458@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="40" height="40"/></a>
 </p>
 
-📍 **Location**: Bangalore, India  
-📧 **Email**: saicharanreddy141458@gmail.com  
+📍 **Location**: Bangalore, India   
 📞 **Phone**: +91 9014145839
 
 ---
