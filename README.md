@@ -85,7 +85,7 @@ Welcome to my GitHub! I'm a **B.Tech graduate in Electronics and Communication E
 
 ### 💼 Work Experience
 
-<table>
+<table border="0">
 <tr>
 <td width="120">
 <img src="https://cognizant.scene7.com/is/image/cognizant/cognizant-white-logo-1?fmt=png-alpha" alt="Cognizant" width="120"/>
@@ -113,7 +113,7 @@ Welcome to my GitHub! I'm a **B.Tech graduate in Electronics and Communication E
 
 ## 💡 Strengths
 
-<table>
+<table border="0">
 <tr>
 <td width="50%" valign="top">
 
@@ -138,7 +138,7 @@ Welcome to my GitHub! I'm a **B.Tech graduate in Electronics and Communication E
 
 ## 🎯 Interests & Hobbies
 
-<table>
+<table border="0">
 <tr>
 <td width="50%" valign="top">
 
