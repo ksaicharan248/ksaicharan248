@@ -1,9 +1,9 @@
 
 # 👋 Hello, I'm K Sai Charan!
 
-👨🏻‍💻 **Aspiring Software Engineer** | 🧠 **AI & Full-Stack Developer** | 📊 **Data Enthusiast**
+👨🏻‍💻 **Programmer Analyst Trainee @ Cognizant** | 🧠 **AI & Full-Stack Developer** | 📊 **Data Enthusiast**
 
-Welcome to my GitHub! I'm a **B.Tech graduate in Electronics and Communication Engineering** with a strong passion for **software development, AI, and solving real-world problems** through scalable and secure solutions.
+Welcome to my GitHub! I'm a **B.Tech graduate in Electronics and Communication Engineering** working as a PAT at Cognizant, with hands-on experience in building enterprise applications using React.js, Spring Boot, and microservices. I'm passionate about **software development, AI, and solving real-world problems** through scalable and secure solutions.
 
 ---
 
@@ -26,6 +26,8 @@ Welcome to my GitHub! I'm a **B.Tech graduate in Electronics and Communication E
   <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/></a>
 </p>
 
 ### ⚙️ Frameworks & Libraries
@@ -53,10 +55,16 @@ Welcome to my GitHub! I'm a **B.Tech graduate in Electronics and Communication E
 
 ### 🛠️ Tools & IDEs
 <p align="left">
-  <a href="https://www.arduino.cc/"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/selenium.svg" alt="Selenium" width="40" height="40"/></a>
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/selenium.svg" alt="Selenium" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="40" height="40"/></a>
+</p>
+
+### 🔧 Additional Technologies
+<p align="left">
+  <strong>REST APIs</strong> • <strong>Microservices</strong> • <strong>CI/CD</strong> • <strong>Agile/Scrum</strong> • <strong>SDLC</strong>
 </p>
 
 ---
@@ -103,8 +111,13 @@ Welcome to my GitHub! I'm a **B.Tech graduate in Electronics and Communication E
 
 ## 📫 Connect with Me
 
-![LinkedIn](https://www.linkedingaluru, India  
-📧 **Email**: saicharanreddy141458@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/sai-charan-k-21940924a"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg" alt="LinkedIn" height="50"/></a>
+</p>
+
+📍 **Location**: Bangalore, India  
+📧 **Email**: saicharanreddy141458@gmail.com  
+📞 **Phone**: +91 9014145839
 
 ---
 
